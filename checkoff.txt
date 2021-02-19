@@ -1,0 +1,1 @@
+Git remote explains what remote endpoints the syncing commands will operate on.
